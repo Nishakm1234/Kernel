@@ -1,0 +1,1 @@
+cmd_/home/student/Desktop/KernelProgs/kern1.ko := ld -r -m elf_i386 -T ./scripts/module-common.lds --build-id  -o /home/student/Desktop/KernelProgs/kern1.ko /home/student/Desktop/KernelProgs/kern1.o /home/student/Desktop/KernelProgs/kern1.mod.o
